@@ -18,8 +18,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '𝕯𝖊𝖛𝖎𝖑 𝕮𝖆𝖙 𝓥3' //ur bot name
-global.ownernumber = ['2348133286181'] //ur owner number, dont add more than one
-global.ownername = '𝕷𝖔𝖗𝖉 𝕹𝖔 𝕹𝖆𝖒𝖊' //ur owner name
+global.ownernumber = ['2347058807743'] //ur owner number, dont add more than one
+global.ownername = 'villian demon' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
 global.wagc = "https://whatsapp.com/channel/0029VadIfkvFSAt7RRohyF0t"
 global.themeemoji = '🪀'
